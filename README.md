@@ -11,11 +11,6 @@ Fullstack Developer • React Specialist • Node.js Enthusiast • PHP > 🎓 M
 <details>
   <summary><strong>Languages & Libraries</strong> (click to expand)</summary>
 
-## 🛠️ My Toolbox
-
-<details>
-  <summary><strong>Languages & Libraries</strong> (click to expand)</summary>
-
   ![React](https://img.shields.io/badge/-React-3B4252?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3B4252?style=flat&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/-Node.js-3B4252?style=flat&logo=node.js&logoColor=339933) ![Fastify](https://img.shields.io/badge/-Fastify-3B4252?style=flat&logo=fastify&logoColor=000000) ![MongoDB](https://img.shields.io/badge/-MongoDB-3B4252?style=flat&logo=mongodb&logoColor=47A248) ![Redux](https://img.shields.io/badge/-Redux-3B4252?style=flat&logo=redux&logoColor=764ABC) ![Vue.js](https://img.shields.io/badge/-Vue.js-3B4252?style=flat&logo=vue.js&logoColor=4FC08D) ![Angular](https://img.shields.io/badge/-Angular-3B4252?style=flat&logo=angular&logoColor=DD0031) ![jQuery](https://img.shields.io/badge/-jQuery-3B4252?style=flat&logo=jquery&logoColor=0769AD) ![Azure](https://img.shields.io/badge/-Azure-3B4252?style=flat&logo=microsoftazure&logoColor=0089D6) ![Wordpress](https://img.shields.io/badge/-Wordpress-3B4252?style=flat&logo=wordpress&logoColor=21759B) ![MySQL](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=4479A1) ![PHP](https://img.shields.io/badge/-PHP-3B4252?style=flat&logo=php&logoColor=777BB4) ![Magento](https://img.shields.io/badge/-Magento-3B4252?style=flat&logo=magento&logoColor=EE672F) ![Laravel](https://img.shields.io/badge/-Laravel-3B4252?style=flat&logo=laravel&logoColor=FF2D20) ![Next.js](https://img.shields.io/badge/-Next.js-3B4252?style=flat&logo=next.js&logoColor=000000) ![NestJS](https://img.shields.io/badge/-NestJS-3B4252?style=flat&logo=nestjs&logoColor=E0234E) ![Express](https://img.shields.io/badge/-Express-3B4252?style=flat&logo=express&logoColor=000000) 
 
 </details>
